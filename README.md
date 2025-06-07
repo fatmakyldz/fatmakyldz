@@ -36,7 +36,7 @@
 
 - 🎨 [SmartBeauty](https://github.com/fatmakyldz/SmartBeauty-Recommender) – Personalized skincare advisor using GUI & Python
 - 👗 [SmartWardrobe](https://github.com/fatmakyldz/SmartWardrobe-AI) – AI-powered outfit recommender with weather/event data
-- 📦 [StockTracker](https://github.com/fatmakyldz/StockTracker-Java) – Terminal-based stock monitor with email alerts
+- 📦 [StockTracker](https://github.com/fatmakyldz/StockTracker) – Terminal-based stock monitor with email alerts
 - 🌐 [Yıldız Birlik Website](https://www.yildizbirlik.com.tr) – Corporate site built with full-stack structure
 
 ---
