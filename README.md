@@ -12,6 +12,7 @@
 
 - 🎓 Currently a **final-year student** in Software Engineering (Graduating 2025)
 - 🧠 Completed **Data Science & AI Training** with distinction at Europe Coding School
+- 👩‍💻 Successfully completed **Full-Stack Java Developer** training at **Ecodation Academy**
 - 🌐 Developed and deployed multiple web apps, AI tools, and automation projects
 - 🏢 Completed AI internship at **Cyber Gear, Dubai**
 - 💼 Built the official website for [Yıldız Birlik Otomat](https://www.yildizbirlik.com.tr)  
