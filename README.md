@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Fatma Akyıldız Karakuş 👋</h1>
+<h1 align="center">Hi, I'm Fatma Karakuş 👋</h1>
 
 <p align="center">
   <b>Software Engineer | AI & Distributed Systems</b><br/>
-  🎓 Final-year Software Engineering student at Bahçeşehir University (Graduating 2025)<br/>
+  🎓 Final-year Software Engineering student at Bahçeşehir University (Graduating 2026)<br/>
   💼 Junior Software Engineer at <b>CTECH (TUSAŞ subsidiary)</b><br/>
   💻 AI-powered systems • backend engineering • full-stack<br/>
   📍 Istanbul, Turkey | 🌍 Open to remote & global collaborations
