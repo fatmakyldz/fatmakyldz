@@ -14,7 +14,7 @@
 
 - 🧠 Junior Software Engineer at **CTECH (TUSAŞ subsidiary)**  
   Working on **flight data recorder systems (CVFDR/CSFDR)** using **.NET 8, Clean Architecture, distributed services & test automation**
-- 🎓 Final-year **Software Engineering** student at **Bahçeşehir University** (2025)
+- 🎓 Final-year **Software Engineering** student at **Bahçeşehir University** (2026)
 - 🇺🇸 Planning to pursue an **online Master’s degree from a U.S. university** in **Data Engineering / AI Systems**
 - 🧠 Completed **Data Science & AI Training (Distinction)** at Europe Coding School
 - 👩‍💻 Completed **Full-Stack Java Developer** program at **Ecodation Academy**
