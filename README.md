@@ -64,7 +64,7 @@
 ### 🌟 Career Vision
 
 I aim to become a **Data & AI Systems Engineer**, building intelligent, scalable, distributed platforms.  
-My long-term goal is to lead AI-powered SaaS and industrial systems under my future brand: **FAMERK Tech**.
+My long-term goal is to lead AI-powered SaaS and industrial systems.
 
 ---
 
